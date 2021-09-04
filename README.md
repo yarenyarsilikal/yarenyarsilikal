@@ -21,6 +21,9 @@
 
 <h3 align="left">Latest Medium Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O 2021 Keynote — What’s new in Android?](https://yarenyarsilikal.medium.com/google-i-o-2021-keynote-whats-new-in-android-bbb7daf17887?source=rss-a9c4b9a5402a------2)
+- [What is Git? Why or How to Use?](https://yarenyarsilikal.medium.com/what-is-git-why-or-how-to-use-16e1f00bc6ff?source=rss-a9c4b9a5402a------2)
+- [Nedir Bu Git? Neden veya Nasıl Kullanılır?](https://yarenyarsilikal.medium.com/nedir-bu-git-neden-veya-nas%C4%B1l-kullan%C4%B1l%C4%B1r-7bf09577adeb?source=rss-a9c4b9a5402a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://media.giphy.com/media/fjgccj3kdQXKl8Ekil/giphy.gif)
